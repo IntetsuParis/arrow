@@ -1,0 +1,18 @@
+.container {
+  margin-bottom: 10px;
+}
+.wrapper {
+  margin-bottom: var(--spacing-medium);
+  margin-top: var(--spacing-medium);
+}
+.icon {
+  display: inline-flex;
+  border: 1px solid var(--color-gray-medium);
+  border-radius: 50%;
+  background-color: var(--color-gray);
+  width: 55px;
+  height: 55px;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
